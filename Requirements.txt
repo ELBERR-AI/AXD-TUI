@@ -1,0 +1,2 @@
+# AXD-TUI has zero external dependencies
+# Built with Python standard library only
