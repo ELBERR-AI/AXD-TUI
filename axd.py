@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-TUI System — DOS-style blue UI
+AXD TUI — DOS-style blue UI
 Terminal (left) + File Explorer (right)
 Requires: Python 3.6+, stdlib only
-Run: python3 tui_system.py
+Run: python3 axd.py
 """
 
 import curses, os, subprocess, shutil, time, sys
