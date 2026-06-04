@@ -1,11 +1,11 @@
 AXD TUI
-![AXD TUI](IMG_1694.jpeg)
+
 A lightweight, DOS-style Text User Interface that runs entirely inside your terminal — blue background, white panels, arrow key navigation. Built with Python’s standard library. No pip installs, no dependencies, no desktop required.
 
 Built for Ubuntu. Also works on Debian.
 
 What it looks like
-
+![AXD TUI](IMG_1694.jpeg)
 The UI is split into two panels side by side. The left panel is a terminal where you type and run commands. The right panel is a file explorer you navigate with arrow keys. Everything sits on a blue background with white bordered boxes, styled like a classic DOS installer screen. It all runs inside your existing terminal window.
 
 Features
